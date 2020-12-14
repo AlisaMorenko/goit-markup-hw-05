@@ -688,10 +688,10 @@ address {
     overflow: hidden;
 }
 
-.thumb:hover::before,
+/* .thumb:hover::before,
 .thumb:focus::before {
     opacity: 1;
-}
+} */
 
 .thumb-overlay {
     position: absolute;
