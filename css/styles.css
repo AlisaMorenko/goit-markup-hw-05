@@ -725,12 +725,12 @@ address {
     transition: opacity 250ms var(--timing-function);
 }
 
-.card:hover .thumb-text,
-.card:focus .thumb-text {
+.galary-link:hover .thumb-text,
+.galary-link:focus .thumb-text {
     opacity: 1;
 }
-.card:hover .thumb-overlay,
-.card:focus .thumb-overlay {
+.galary-link:hover .thumb-overlay,
+.galary-link:focus .thumb-overlay {
     opacity: 1;
     transform: translateY(0);
 }
